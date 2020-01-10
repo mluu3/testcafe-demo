@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "abc",
+  "scripts": {
+    "testcafe-visual": "cross-env TEST_MODE=visual ./run-testcafe.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^6.0.3",
+    "testcafe": "^1.7.1"
+  }
+}
